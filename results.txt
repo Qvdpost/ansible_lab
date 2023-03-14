@@ -1,0 +1,13 @@
+"Running 30s test @ http://ec2-3-86-7-70.compute-1.amazonaws.com:8080",
+        "  4 threads and 5 connections",
+        "  Thread Stats   Avg      Stdev     Max   +/- Stdev",
+        "    Latency     1.38ms    1.51ms  31.04ms   96.67%",
+        "    Req/Sec   801.48     84.37     0.96k    69.17%",
+        "  95764 requests in 30.01s, 28.40MB read",
+        "Requests/sec:   3190.64",
+        "Transfer/sec:      0.95MB"
+
+        Req/Sec    801.48    84.37     0.96k    69.17%"
+        Req/Sec     1.00k   226.92     1.45k    72.42%"
+        Req/Sec     0.88k    86.16     1.09k    72.50%"
+        Req/Sec     0.87k   209.45     1.37k    70.92%"
